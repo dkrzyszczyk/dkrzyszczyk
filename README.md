@@ -5,7 +5,7 @@
   </a> 
 </h3>
 
-My name is Dominika Krzyszczyk and my field of expertise is broadly-understood Cloud Computing. I'm from Poland :poland: and currently working remotely [**@Collibra**](https://www.collibra.com/us/en) as Infrastructure Engineer. I've nearly 5 years professional background with various cloud providers (AWS, GCP, IBM Cloud) in public, private as well as hybrid Cloud solutions. If you want to know more about me then please find me on [**LinkedIn**](https://linkedin.com/in/dkrzyszczyk).
+My name is Dominika Krzyszczyk and my field of expertise is broadly-understood Cloud Computing. I'm from Poland :poland: and currently working remotely [**@Collibra**](https://www.collibra.com/us/en) as Infrastructure Engineer. I've nearly 5 years professional background with various cloud providers (AWS, GCP, IBM Cloud) in public, private as well as hybrid Cloud solutions. If you want to know more then please find me on [**LinkedIn**](https://linkedin.com/in/dkrzyszczyk).
 
 
 <table>
@@ -17,17 +17,19 @@ My name is Dominika Krzyszczyk and my field of expertise is broadly-understood C
 ### About me :speech_balloon:	
 ___
 
+<img align="right" alt="gif designed by Gabriela Mancini" data-canonical-src="https://www.toptal.com/press-center/third-scholarship-winner" width=auto height=250px src="https://raw.githubusercontent.com/dkrzyszczyk/dkrzyszczyk/main/gabriela_mancini.gif" style="max-width: 100%;">
+
 ```shell script
 const info = {
     pronouns: "she" | "her",
     deep-dive: {
         whoAmI: ["proud feminist", "undoubted queer ally", "veg lover"],
-        favWorkParts: ["cloud native architecture stuff, especially kubernetes & service mesh e.g. istio"],
+        favWorkParts: ["cloud native architecture stuff, k8s & istio"],
         spareTime: ["personal growth", "selfcare", "people"],
         proudOf: ["double BEng degrees & single MEng degree"],
         goals: ["work abroad", "be manager", "PhD one day"],
     },
-    addicted: ["climbing", "graphic and design", "books", "coffee", "photography"],
+    addicted: ["climbing", "graphic and design", "books", "coffee"],
     reminder: "the key to success is to start before you're ready",
 };
 ```
