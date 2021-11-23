@@ -1,12 +1,13 @@
 <h3 align="center" dir="auto">
-  welcome stranger  
+  Welcome, Stranger  
   <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/dkrzyszczyk/dkrzyszczyk/main/wave.gif">
     <img src="https://raw.githubusercontent.com/dkrzyszczyk/dkrzyszczyk/main/wave.gif" width="30px" style="max-width: 100%;">
   </a> 
 </h3>
 
-My name is Dominika Krzyszczyk and my field of expertise is broadly-understood Cloud Computing. I'm from Poland :poland: and currently working remotely [**@Collibra**](https://www.collibra.com/us/en) as Infrastructure Engineer. I've nearly 5 years professional background with various cloud providers (AWS, GCP, IBM Cloud) in public, private as well as hybrid Cloud solutions. If you want to know more then please find me on [**LinkedIn**](https://linkedin.com/in/dkrzyszczyk).
+My name is Dominika Krzyszczyk<sup>1</sup> and my field of expertise is broadly-understood Cloud Computing. I'm from Poland :poland: and I'm currently working remotely [**@Collibra**](https://www.collibra.com/us/en) as an Infrastructure Engineer. That role include responsibility for evolving our product into a more *SaaS friendly* design. I have over 4 years professional background with various Cloud providers (AWS, GCP, IBM Cloud) in public, private, and hybrid-Cloud solutions. If you want to know more, then please find me on [**LinkedIn**](https://linkedin.com/in/dkrzyszczyk).
 
+<sup>1</sup> Phonetically: `Dom-i-neeka Kri-shi-shik`
 
 <table>
 <td align="center"><a target="_blank" rel="noopener noreferrer">
@@ -14,7 +15,7 @@ My name is Dominika Krzyszczyk and my field of expertise is broadly-understood C
 <td align="center"><a href="https://git.io/streak-stats" rel="nofollow"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dkrzyszczyk&theme=nord&count_private=true&hide_border=true&disable_animations=true" alt="GitHub Streak" style="max-width: 100%;"></td>
 </table>
 
-### About me :speech_balloon:	
+### About Me :speech_balloon:	
 ___
 
 <img align="right" alt="gif designed by Gabriela Mancini" data-canonical-src="https://www.toptal.com/press-center/third-scholarship-winner" width=auto height=250px src="https://raw.githubusercontent.com/dkrzyszczyk/dkrzyszczyk/main/gabriela_mancini.gif" style="max-width: 100%;">
@@ -22,19 +23,19 @@ ___
 ```shell script
 const info = {
     pronouns: "she" | "her",
-    deep-dive: {
-        whoAmI: ["proud feminist", "undoubted queer ally", "veg lover"],
-        favWorkParts: ["cloud native architecture stuff, k8s & istio"],
-        spareTime: ["personal growth", "selfcare", "people"],
-        proudOf: ["double BEng degrees & single MEng degree"],
-        goals: ["work abroad", "be manager", "PhD one day"],
+    deepDive: {
+        whoAmI: ["proud feminist", "LGBTQIA+ ally", "veg lover"],
+        favWorkParts: ["Cloud-native architecture, k8s & istio"],
+        spareTime: ["personal growth", "self-care", "people"],
+        proudOf: ["two BEng degrees & MEng degree"],
+        goals: ["work abroad", "lead a team", "earn a PhD"],
     },
     addicted: ["climbing", "graphic and design", "books", "coffee"],
     reminder: "the key to success is to start before you're ready",
 };
 ```
 
-### Technologies & Tools :hammer_and_wrench:
+### Tools & Technologies :hammer_and_wrench:
 ___
 
 ![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=googlecloud&logoColor=white&color=b3ccff)
