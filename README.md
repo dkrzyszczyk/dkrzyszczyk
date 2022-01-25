@@ -5,7 +5,7 @@
   </a> 
 </h3>
 
-My name is Dominika Krzyszczyk<sup>1</sup> and my field of expertise is broadly-understood Cloud Computing. I'm from Poland :poland: and I'm currently working remotely [**@Collibra**](https://www.collibra.com/us/en) as an Infrastructure Engineer. That role include responsibility for evolving our product into a more *SaaS friendly* design. I have over 4 years professional background with various Cloud providers (AWS, GCP, IBM Cloud) in public, private, and hybrid-Cloud solutions. If you want to know more, then please find me on [**LinkedIn**](https://linkedin.com/in/dkrzyszczyk).
+My name is Dominika Krzyszczyk<sup>1</sup> and my field of expertise is broadly-understood Cloud Computing. I'm from Poland :poland: and I'm currently working remotely [**@Collibra**](https://www.collibra.com/us/en) as an Infrastructure Engineer. That role include responsibility for evolving our product into a more *SaaS friendly* design. I have 5 years professional background with various Cloud providers (AWS, GCP, IBM Cloud) in public, private, and hybrid-Cloud solutions. If you want to know more, then please find me on [**LinkedIn**](https://linkedin.com/in/dkrzyszczyk).
 
 <sup>1</sup> Phonetically: `Dom-i-neeka Kri-shi-shik`
 
