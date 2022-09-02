@@ -11,7 +11,7 @@ My name is Dominika Krzyszczyk<sup>1</sup> and my field of expertise is broadly-
 
 <table>
 <td align="center"><a target="_blank" rel="noopener noreferrer">
-  <img src="https://github-readme-stats.vercel.app/api?username=dkrzyszczyk&theme=nord&show_icons=true&count_private=true&hide_border=true&disable_animations=true&custom_title=Some stats" alt="arndom's github stats" style="max-width: 100%;"></td>
+  <img src="https://github-readme-stats.vercel.app/api?username=dkrzyszczyk&theme=nord&show_icons=true&count_private=true&hide_border=true&disable_animations=true&custom_title=some-stats" alt="arndom's github stats" style="max-width: 100%;"></td>
 <td align="center"><a href="https://git.io/streak-stats" rel="nofollow"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dkrzyszczyk&theme=nord&count_private=true&hide_border=true&disable_animations=true" alt="GitHub Streak" style="max-width: 100%;"></td>
 </table>
 
